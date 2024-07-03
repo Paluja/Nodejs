@@ -1,0 +1,47 @@
+
+module.exports.USERS_BBDD = [
+    {
+      "_id": "667aeda80a2b1671c8bd1fc5",
+      "index": 0,
+      "guid": "b1ea2731-750f-4c6b-8406-f9c0560eff1e",
+      "isActive": false,
+      "balance": "$2,371.04",
+      "picture": "http://placehold.it/32x32",
+      "age": 25,
+      "eyeColor": "green",
+      "name": "Charmaine Buck",
+      "gender": "female",
+      "company": "KROG",
+      "email": "charmainebuck@krog.com",
+      "password": "qwerty1234",
+      "role": "user",
+      "phone": "+1 (885) 519-3684",
+      "address": "162 Hinckley Place, Escondida, Ohio, 1863",
+      "about": "Ipsum dolor eiusmod dolore ex ex voluptate consequat exercitation laborum velit aliquip ipsum mollit. Ex magna culpa do ullamco ex id sint anim ad est officia. Commodo ex aliqua et velit incididunt dolore enim adipisicing dolore ad. Nostrud elit non reprehenderit labore consectetur qui velit commodo commodo quis. Velit mollit Lorem consequat laboris duis. Voluptate eiusmod esse Lorem eiusmod ad. Sunt deserunt ex ea aliquip nulla dolor laborum anim non qui ad nulla aute magna.\r\n",
+      "registered": "2019-12-09T05:59:51 -01:00",
+      "latitude": -72.324433,
+      "longitude": 98.288768
+    },
+    {
+      "_id": "667aeda8e6b86bbb3b540ad1",
+      "index": 1,
+      "guid": "c0bc82be-0e48-4989-8299-ff7d146079ec",
+      "isActive": true,
+      "balance": "$3,127.00",
+      "picture": "http://placehold.it/32x32",
+      "age": 38,
+      "eyeColor": "green",
+      "name": "Maxine Branch",
+      "gender": "female",
+      "company": "QUALITEX",
+      "email": "maxinebranch@qualitex.com",
+      "password": "1234qwerty",
+      "role": "admin",
+      "phone": "+1 (890) 541-3462",
+      "address": "304 Ashland Place, Wintersburg, New Hampshire, 5065",
+      "about": "Ea qui ex do deserunt anim in anim qui eiusmod fugiat esse. Cupidatat magna cupidatat proident in esse duis incididunt commodo. Veniam anim id minim amet ut Lorem. Laborum anim excepteur laboris in est ea aliqua ex. Lorem aliquip id enim eiusmod enim eu ullamco. In laboris laboris deserunt in. Id et do cupidatat occaecat ad anim occaecat voluptate.\r\n",
+      "registered": "2015-06-06T03:17:25 -02:00",
+      "latitude": 31.914263,
+      "longitude": -154.163049
+    }
+  ] 

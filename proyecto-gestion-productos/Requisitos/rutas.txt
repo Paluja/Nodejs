@@ -1,0 +1,27 @@
+1. Obtener los detalles de un producto por ID
+Método: GET
+Ruta: /product/:id
+Ejemplo de Ruta: /product/1
+
+2. Obtener el precio de un producto específico por ID
+Método: GET
+Ruta: /product/price/:id
+Ejemplo de Ruta: /product/price/2
+
+3. Cargar un nuevo producto
+Método: POST
+Ruta: /product
+Body:
+{
+  "id": 11,
+  "nombre": "Impresora 3D",
+  "precio": 350
+}
+4. Modificar el precio de un producto por ID
+Método: PATCH
+Ruta: /product/:id
+Ejemplo de Ruta: /product/3
+Body:
+{
+  "precio": 650
+}

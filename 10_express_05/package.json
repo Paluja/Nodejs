@@ -1,0 +1,32 @@
+{
+  "name": "07_express_api_2",
+  "version": "1.0.0",
+  "description": "Implementamos Middlewares",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./index.js"
+  },
+  "keywords": [
+    "express",
+    "nodemon",
+    "dotenv",
+    "middleware"
+  ],
+  "author": "Cecilia Persico",
+  "license": "ISC",
+  "dependencies": {
+    "@sinclair/typebox": "^0.32.34",
+    "ajv-errors": "^3.0.0",
+    "ajv-formats": "^3.0.1",
+    "cookie-parser": "^1.4.6",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "jose": "^5.6.2",
+    "morgan": "^1.10.0",
+    "uuid": "^10.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}

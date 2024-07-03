@@ -1,0 +1,26 @@
+GET http://localhost:1234/leemosUnJSON
+
+### para separar los endpoint usar una linea de comentario
+POST http://localhost:1234/agregarCiudad
+Content-Type: application/json
+
+
+{
+    "nombre": "Madrid2",
+    "provincia": "Madrid",
+    "comunidad": "Comunidad de Madrid",
+    "habitantes": 3223334,
+    "superficie": 604.3,
+    "año_fundacion": -156,
+    "temperatura_media": 15.5
+  }
+
+### modificar nombre
+
+PUT  http://localhost:1234/modificarCiudad
+Content-Type: application/json
+
+{
+    "nombre": "Malaga",
+    "nuevoNombre": "Malaga la linda"
+}

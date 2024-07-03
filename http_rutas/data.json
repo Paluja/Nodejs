@@ -1,0 +1,605 @@
+
+    {
+      "nombre": "Madrid",
+      "provincia": "Madrid",
+      "comunidad": "Comunidad de Madrid",
+      "habitantes": 3223334,
+      "superficie": 604.3,
+      "año_fundacion": -156,
+      "temperatura_media": 15.5
+    },
+    {
+      "nombre": "Barcelona",
+      "provincia": "Barcelona",
+      "comunidad": "Cataluña",
+      "habitantes": 1620343,
+      "superficie": 101.9,
+      "año_fundacion": -15,
+      "temperatura_media": 16.5
+    },
+    {
+      "nombre": "Valencia",
+      "provincia": "Valencia",
+      "comunidad": "Comunidad Valenciana",
+      "habitantes": 791413,
+      "superficie": 134.65,
+      "año_fundacion": -138,
+      "temperatura_media": 18.3
+    },
+    {
+      "nombre": "Sevilla",
+      "provincia": "Sevilla",
+      "comunidad": "Andalucía",
+      "habitantes": 688711,
+      "superficie": 140.8,
+      "año_fundacion": -1000,
+      "temperatura_media": 19.2
+    },
+    {
+      "nombre": "Zaragoza",
+      "provincia": "Zaragoza",
+      "comunidad": "Aragón",
+      "habitantes": 675302,
+      "superficie": 973.78,
+      "año_fundacion": -24,
+      "temperatura_media": 15.1
+    },
+    {
+      "nombre": "Málaga",
+      "provincia": "Málaga",
+      "comunidad": "Andalucía",
+      "habitantes": 578460,
+      "superficie": 398.25,
+      "año_fundacion": -770,
+      "temperatura_media": 18.5
+    },
+    {
+      "nombre": "Murcia",
+      "provincia": "Murcia",
+      "comunidad": "Región de Murcia",
+      "habitantes": 453258,
+      "superficie": 881.86,
+      "año_fundacion": 825,
+      "temperatura_media": 18.4
+    },
+    {
+      "nombre": "Palma",
+      "provincia": "Islas Baleares",
+      "comunidad": "Islas Baleares",
+      "habitantes": 409661,
+      "superficie": 208.63,
+      "año_fundacion": -123,
+      "temperatura_media": 17.6
+    },
+    {
+      "nombre": "Las Palmas de Gran Canaria",
+      "provincia": "Las Palmas",
+      "comunidad": "Canarias",
+      "habitantes": 379925,
+      "superficie": 100.55,
+      "año_fundacion": 1478,
+      "temperatura_media": 22.0
+    },
+    {
+      "nombre": "Bilbao",
+      "provincia": "Vizcaya",
+      "comunidad": "País Vasco",
+      "habitantes": 346843,
+      "superficie": 41.6,
+      "año_fundacion": 1300,
+      "temperatura_media": 14.5
+    },
+    {
+      "nombre": "Alicante",
+      "provincia": "Alicante",
+      "comunidad": "Comunidad Valenciana",
+      "habitantes": 334887,
+      "superficie": 201.27,
+      "año_fundacion": -324,
+      "temperatura_media": 18.3
+    },
+    {
+      "nombre": "Córdoba",
+      "provincia": "Córdoba",
+      "comunidad": "Andalucía",
+      "habitantes": 325701,
+      "superficie": 1255.24,
+      "año_fundacion": -169,
+      "temperatura_media": 18.4
+    },
+    {
+      "nombre": "Valladolid",
+      "provincia": "Valladolid",
+      "comunidad": "Castilla y León",
+      "habitantes": 298412,
+      "superficie": 197.91,
+      "año_fundacion": 1072,
+      "temperatura_media": 13.5
+    },
+    {
+      "nombre": "Vigo",
+      "provincia": "Pontevedra",
+      "comunidad": "Galicia",
+      "habitantes": 296692,
+      "superficie": 109.1,
+      "año_fundacion": -1500,
+      "temperatura_media": 14.9
+    },
+    {
+      "nombre": "Gijón",
+      "provincia": "Asturias",
+      "comunidad": "Asturias",
+      "habitantes": 271780,
+      "superficie": 181.6,
+      "año_fundacion": -500,
+      "temperatura_media": 15.0
+    },
+    {
+      "nombre": "Hospitalet de Llobregat",
+      "provincia": "Barcelona",
+      "comunidad": "Cataluña",
+      "habitantes": 264923,
+      "superficie": 12.49,
+      "año_fundacion": 908,
+      "temperatura_media": 16.8
+    },
+    {
+      "nombre": "Vitoria-Gasteiz",
+      "provincia": "Álava",
+      "comunidad": "País Vasco",
+      "habitantes": 251774,
+      "superficie": 276.81,
+      "año_fundacion": 1181,
+      "temperatura_media": 12.9
+    },
+    {
+      "nombre": "Badalona",
+      "provincia": "Barcelona",
+      "comunidad": "Cataluña",
+      "habitantes": 223006,
+      "superficie": 21.17,
+      "año_fundacion": -100,
+      "temperatura_media": 16.7
+    },
+    {
+      "nombre": "Oviedo",
+      "provincia": "Asturias",
+      "comunidad": "Asturias",
+      "habitantes": 220020,
+      "superficie": 186.65,
+      "año_fundacion": 761,
+      "temperatura_media": 13.9
+    },
+    {
+      "nombre": "Cartagena",
+      "provincia": "Murcia",
+      "comunidad": "Región de Murcia",
+      "habitantes": 214802,
+      "superficie": 558.3,
+      "año_fundacion": -227,
+      "temperatura_media": 19.0
+    },
+    {
+      "nombre": "Sabadell",
+      "provincia": "Barcelona",
+      "comunidad": "Cataluña",
+      "habitantes": 213644,
+      "superficie": 37.89,
+      "año_fundacion": -650,
+      "temperatura_media": 15.6
+    },
+    {
+      "nombre": "Jerez de la Frontera",
+      "provincia": "Cádiz",
+      "comunidad": "Andalucía",
+      "habitantes": 212749,
+      "superficie": 1188.14,
+      "año_fundacion": -126,
+      "temperatura_media": 18.6
+    },
+    {
+      "nombre": "Móstoles",
+      "provincia": "Madrid",
+      "comunidad": "Comunidad de Madrid",
+      "habitantes": 210309,
+      "superficie": 45.36,
+      "año_fundacion": 1085,
+      "temperatura_media": 15.1
+    },
+    {
+      "nombre": "Santa Cruz de Tenerife",
+      "provincia": "Santa Cruz de Tenerife",
+      "comunidad": "Canarias",
+      "habitantes": 208563,
+      "superficie": 150.56,
+      "año_fundacion": 1494,
+      "temperatura_media": 21.3
+    },
+    {
+      "nombre": "Pamplona",
+      "provincia": "Navarra",
+      "comunidad": "Navarra",
+      "habitantes": 204870,
+      "superficie": 25.1,
+      "año_fundacion": -74,
+      "temperatura_media": 13.6
+    },
+    {
+      "nombre": "Almería",
+      "provincia": "Almería",
+      "comunidad": "Andalucía",
+      "habitantes": 201322,
+      "superficie": 296.21,
+      "año_fundacion": 955,
+      "temperatura_media": 19.0
+    },
+    {
+      "nombre": "San Sebastián",
+      "provincia": "Guipúzcoa",
+      "comunidad": "País Vasco",
+      "habitantes": 187987,
+      "superficie": 60.89,
+      "año_fundacion": 1180,
+      "temperatura_media": 14.2
+    },
+    {
+      "nombre": "Burgos",
+      "provincia": "Burgos",
+      "comunidad": "Castilla y León",
+      "habitantes": 176608,
+      "superficie": 108.74,
+      "año_fundacion": 884,
+      "temperatura_media": 10.9
+    },
+    {
+      "nombre": "Santander",
+      "provincia": "Cantabria",
+      "comunidad": "Cantabria",
+      "habitantes": 172656,
+      "superficie": 35.3,
+      "año_fundacion": -26,
+      "temperatura_media": 15.2
+    },
+    {
+      "nombre": "Albacete",
+      "provincia": "Albacete",
+      "comunidad": "Castilla-La Mancha",
+      "habitantes": 173329,
+      "superficie": 1125.91,
+      "año_fundacion": 1375,
+      "temperatura_media": 15.3
+    },
+    {
+      "nombre": "Castellón de la Plana",
+      "provincia": "Castellón",
+      "comunidad": "Comunidad Valenciana",
+      "habitantes": 170888,
+      "superficie": 108.77,
+      "año_fundacion": 1251,
+      "temperatura_media": 17.5
+    },
+    {
+      "nombre": "Logroño",
+      "provincia": "La Rioja",
+      "comunidad": "La Rioja",
+      "habitantes": 151113,
+      "superficie": 79.57,
+      "año_fundacion": 1095,
+      "temperatura_media": 13.9
+    },
+    {
+      "nombre": "Badajoz",
+      "provincia": "Badajoz",
+      "comunidad": "Extremadura",
+      "habitantes": 150702,
+      "superficie": 1441.02,
+      "año_fundacion": 875,
+      "temperatura_media": 17.1
+    },
+    {
+      "nombre": "Salamanca",
+      "provincia": "Salamanca",
+      "comunidad": "Castilla y León",
+      "habitantes": 144825,
+      "superficie": 38.6,
+      "año_fundacion": -400,
+      "temperatura_media": 11.9
+    },
+    {
+      "nombre": "Huelva",
+      "provincia": "Huelva",
+      "comunidad": "Andalucía",
+      "habitantes": 143663,
+      "superficie": 149.98,
+      "año_fundacion": -1000,
+      "temperatura_media": 18.2
+    },
+    {
+      "nombre": "Lleida",
+      "provincia": "Lérida",
+      "comunidad": "Cataluña",
+      "habitantes": 138956,
+      "superficie": 211.7,
+      "año_fundacion": -2000,
+      "temperatura_media": 15.7
+    },
+    {
+      "nombre": "Marbella",
+      "provincia": "Málaga",
+      "comunidad": "Andalucía",
+      "habitantes": 147633,
+      "superficie": 117.19,
+      "año_fundacion": -1600,
+      "temperatura_media": 18.5
+    },
+    {
+      "nombre": "Tarragona",
+      "provincia": "Tarragona",
+      "comunidad": "Cataluña",
+      "habitantes": 135436,
+      "superficie": 63.3,
+      "año_fundacion": -240,
+      "temperatura_media": 17.3
+    },
+    {
+      "nombre": "Lugo",
+      "provincia": "Lugo",
+      "comunidad": "Galicia",
+      "habitantes": 98539,
+      "superficie": 329.78,
+      "año_fundacion": -25,
+      "temperatura_media": 14.0
+    },
+    {
+      "nombre": "Cáceres",
+      "provincia": "Cáceres",
+      "comunidad": "Extremadura",
+      "habitantes": 96574,
+      "superficie": 1750.33,
+      "año_fundacion": -25,
+      "temperatura_media": 16.2
+    },
+    {
+      "nombre": "Santiago de Compostela",
+      "provincia": "La Coruña",
+      "comunidad": "Galicia",
+      "habitantes": 96406,
+      "superficie": 220.01,
+      "año_fundacion": 830,
+      "temperatura_media": 13.8
+    },
+    {
+      "nombre": "Ourense",
+      "provincia": "Orense",
+      "comunidad": "Galicia",
+      "habitantes": 105643,
+      "superficie": 85.2,
+      "año_fundacion": -600,
+      "temperatura_media": 15.1
+    },
+    {
+      "nombre": "Melilla",
+      "provincia": "Melilla",
+      "comunidad": "Ciudad Autónoma de Melilla",
+      "habitantes": 87056,
+      "superficie": 12.3,
+      "año_fundacion": -800,
+      "temperatura_media": 19.5
+    },
+    {
+      "nombre": "Ceuta",
+      "provincia": "Ceuta",
+      "comunidad": "Ciudad Autónoma de Ceuta",
+      "habitantes": 84777,
+      "superficie": 18.5,
+      "año_fundacion": -1000,
+      "temperatura_media": 19.3
+    },
+    {
+      "nombre": "Guadalajara",
+      "provincia": "Guadalajara",
+      "comunidad": "Castilla-La Mancha",
+      "habitantes": 85398,
+      "superficie": 235.51,
+      "año_fundacion": 1085,
+      "temperatura_media": 13.8
+    },
+    {
+      "nombre": "Toledo",
+      "provincia": "Toledo",
+      "comunidad": "Castilla-La Mancha",
+      "habitantes": 85585,
+      "superficie": 232.1,
+      "año_fundacion": -192,
+      "temperatura_media": 15.4
+    },
+    {
+      "nombre": "Huesca",
+      "provincia": "Huesca",
+      "comunidad": "Aragón",
+      "habitantes": 53243,
+      "superficie": 161.03,
+      "año_fundacion": -200,
+      "temperatura_media": 14.0
+    },
+    {
+      "nombre": "Jaén",
+      "provincia": "Jaén",
+      "comunidad": "Andalucía",
+      "habitantes": 113457,
+      "superficie": 424.3,
+      "año_fundacion": -4500,
+      "temperatura_media": 17.6
+    },
+    {
+      "nombre": "Teruel",
+      "provincia": "Teruel",
+      "comunidad": "Aragón",
+      "habitantes": 35198,
+      "superficie": 440.41,
+      "año_fundacion": 1171,
+      "temperatura_media": 12.4
+    },
+    {
+      "nombre": "Segovia",
+      "provincia": "Segovia",
+      "comunidad": "Castilla y León",
+      "habitantes": 51674,
+      "superficie": 163.59,
+      "año_fundacion": -80,
+      "temperatura_media": 13.2
+    },
+    {
+      "nombre": "Ávila",
+      "provincia": "Ávila",
+      "comunidad": "Castilla y León",
+      "habitantes": 57892,
+      "superficie": 231.9,
+      "año_fundacion": 1085,
+      "temperatura_media": 11.5
+    },
+    {
+      "nombre": "Cuenca",
+      "provincia": "Cuenca",
+      "comunidad": "Castilla-La Mancha",
+      "habitantes": 53924,
+      "superficie": 911.06,
+      "año_fundacion": -195,
+      "temperatura_media": 13.1
+    },
+    {
+      "nombre": "Zamora",
+      "provincia": "Zamora",
+      "comunidad": "Castilla y León",
+      "habitantes": 61092,
+      "superficie": 149.28,
+      "año_fundacion": 901,
+      "temperatura_media": 13.0
+    },
+    {
+      "nombre": "Palencia",
+      "provincia": "Palencia",
+      "comunidad": "Castilla y León",
+      "habitantes": 78892,
+      "superficie": 94.71,
+      "año_fundacion": -50,
+      "temperatura_media": 12.1
+    },
+    {
+      "nombre": "León",
+      "provincia": "León",
+      "comunidad": "Castilla y León",
+      "habitantes": 125317,
+      "superficie": 39.12,
+      "año_fundacion": 29,
+      "temperatura_media": 11.5
+    },
+    {
+      "nombre": "Telde",
+      "provincia": "Las Palmas",
+      "comunidad": "Canarias",
+      "habitantes": 102647,
+      "superficie": 102.43,
+      "año_fundacion": 1351,
+      "temperatura_media": 20.7
+    },
+    {
+      "nombre": "San Cristóbal de La Laguna",
+      "provincia": "Santa Cruz de Tenerife",
+      "comunidad": "Canarias",
+      "habitantes": 157503,
+      "superficie": 102.05,
+      "año_fundacion": 1496,
+      "temperatura_media": 20.1
+    },
+    {
+      "nombre": "Torrevieja",
+      "provincia": "Alicante",
+      "comunidad": "Comunidad Valenciana",
+      "habitantes": 84967,
+      "superficie": 71.44,
+      "año_fundacion": 1820,
+      "temperatura_media": 18.5
+    },
+    {
+      "nombre": "Alcobendas",
+      "provincia": "Madrid",
+      "comunidad": "Comunidad de Madrid",
+      "habitantes": 116037,
+      "superficie": 44.98,
+      "año_fundacion": 1085,
+      "temperatura_media": 15.1
+    },
+    {
+      "nombre": "Las Rozas de Madrid",
+      "provincia": "Madrid",
+      "comunidad": "Comunidad de Madrid",
+      "habitantes": 95961,
+      "superficie": 59.14,
+      "año_fundacion": 1292,
+      "temperatura_media": 15.4
+    },
+    {
+      "nombre": "Getafe",
+      "provincia": "Madrid",
+      "comunidad": "Comunidad de Madrid",
+      "habitantes": 183374,
+      "superficie": 78.74,
+      "año_fundacion": 1326,
+      "temperatura_media": 15.4
+    },
+    {
+      "nombre": "Fuenlabrada",
+      "provincia": "Madrid",
+      "comunidad": "Comunidad de Madrid",
+      "habitantes": 194514,
+      "superficie": 39.14,
+      "año_fundacion": 1292,
+      "temperatura_media": 15.2
+    },
+    {
+      "nombre": "Mérida",
+      "provincia": "Badajoz",
+      "comunidad": "Extremadura",
+      "habitantes": 59048,
+      "superficie": 865.19,
+      "año_fundacion": -25,
+      "temperatura_media": 17.1
+    },
+    {
+      "nombre": "Elda",
+      "provincia": "Alicante",
+      "comunidad": "Comunidad Valenciana",
+      "habitantes": 52670,
+      "superficie": 44.86,
+      "año_fundacion": 1278,
+      "temperatura_media": 17.4
+    },
+    {
+      "nombre": "Ponferrada",
+      "provincia": "León",
+      "comunidad": "Castilla y León",
+      "habitantes": 65412,
+      "superficie": 283.06,
+      "año_fundacion": 1082,
+      "temperatura_media": 12.4
+    },
+    {
+      "nombre": "Arrecife",
+      "provincia": "Las Palmas",
+      "comunidad": "Canarias",
+      "habitantes": 64468,
+      "superficie": 22.72,
+      "año_fundacion": 1402,
+      "temperatura_media": 21.0
+    },
+    {
+      "nombre": "Santa Coloma de Gramenet",
+      "provincia": "Barcelona",
+      "comunidad": "Cataluña",
+      "habitantes": 120826,
+      "superficie": 6.6,
+      "año_fundacion": 1300,
+      "temperatura_media": 16.7
+    }
+  

@@ -1,0 +1,25 @@
+{
+  "name": "proyecto-gestion-productos",
+  "version": "1.0.0",
+  "description": "Desarrollar una aplicación de servidor utilizando Node.js y Express que permita gestionar una base de datos simple de productos. La aplicación debe permitir crear, leer y actualizar información específica de productos a través de una API REST.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon .index.js"
+  },
+  "keywords": [
+    "express",
+    "dotenv",
+    "nodemon",
+    "thunderClient"
+  ],
+  "author": "Cecilia Persico",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}

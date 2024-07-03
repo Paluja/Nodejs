@@ -1,0 +1,144 @@
+{
+    "clientName": "Thunder Client",
+    "collectionName": "GestorProducts",
+    "collectionId": "f539786f-e158-4d20-bf75-f39b0ab69dd7",
+    "dateExported": "2024-06-26T11:40:12.621Z",
+    "version": "1.2",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "64be1825-b707-468b-aa33-a215813c3701",
+            "colId": "f539786f-e158-4d20-bf75-f39b0ab69dd7",
+            "containerId": "",
+            "name": "get",
+            "url": "http://localhost:3000/product/1",
+            "method": "GET",
+            "sortNum": 10000,
+            "created": "2024-06-26T10:58:25.208Z",
+            "modified": "2024-06-26T10:59:04.153Z",
+            "headers": []
+        },
+        {
+            "_id": "ef844af6-59d1-4789-b0bd-269c3fc21ecf",
+            "colId": "f539786f-e158-4d20-bf75-f39b0ab69dd7",
+            "containerId": "",
+            "name": "post",
+            "url": "http://localhost:3000/product",
+            "method": "POST",
+            "sortNum": 20000,
+            "created": "2024-06-26T10:59:10.466Z",
+            "modified": "2024-06-26T11:38:10.639Z",
+            "headers": [],
+            "body": {
+                "type": "json",
+                "raw": "{\n  \"id\": 11,\n  \"nombre\": \"Impresora 3D\",\n  \"precio\": 350\n}",
+                "form": []
+            }
+        },
+        {
+            "_id": "1b861c0c-7662-4c8e-8780-5e9f6cb3a0ce",
+            "colId": "f539786f-e158-4d20-bf75-f39b0ab69dd7",
+            "containerId": "",
+            "name": "get price",
+            "url": "http://localhost:3000/product/price/1678",
+            "method": "GET",
+            "sortNum": 20000,
+            "created": "2024-06-26T11:00:24.680Z",
+            "modified": "2024-06-26T11:35:59.351Z",
+            "headers": []
+        },
+        {
+            "_id": "957da577-6cf8-4008-8752-6f3d2d63b5f0",
+            "colId": "f539786f-e158-4d20-bf75-f39b0ab69dd7",
+            "containerId": "",
+            "name": "patch",
+            "url": "http://localhost:3000/product/1",
+            "method": "PATCH",
+            "sortNum": 20000,
+            "created": "2024-06-26T11:01:18.990Z",
+            "modified": "2024-06-26T11:26:27.592Z",
+            "headers": [],
+            "body": {
+                "type": "json",
+                "raw": "{\n  \"precio\": 650\n}",
+                "form": []
+            }
+        },
+        {
+            "_id": "a3cdff9b-bf3f-471c-a07f-6c6efb49b1de",
+            "colId": "f539786f-e158-4d20-bf75-f39b0ab69dd7",
+            "containerId": "",
+            "name": "get Producto No Encontrado",
+            "url": "http://localhost:3000/product/a",
+            "method": "GET",
+            "sortNum": 20000,
+            "created": "2024-06-26T11:34:39.089Z",
+            "modified": "2024-06-26T11:35:10.159Z",
+            "headers": []
+        },
+        {
+            "_id": "a8032a49-b46a-4dcb-9652-5fb9904a2a8c",
+            "colId": "f539786f-e158-4d20-bf75-f39b0ab69dd7",
+            "containerId": "",
+            "name": "get price  No encontrado",
+            "url": "http://localhost:3000/product/price/1",
+            "method": "GET",
+            "sortNum": 30000,
+            "created": "2024-06-26T11:35:41.322Z",
+            "modified": "2024-06-26T11:35:41.322Z",
+            "headers": []
+        },
+        {
+            "_id": "a3812718-9b68-4324-b16a-13878d524472",
+            "colId": "f539786f-e158-4d20-bf75-f39b0ab69dd7",
+            "containerId": "",
+            "name": "post Incompleto",
+            "url": "http://localhost:3000/product",
+            "method": "POST",
+            "sortNum": 30000,
+            "created": "2024-06-26T11:36:21.646Z",
+            "modified": "2024-06-26T11:36:21.646Z",
+            "headers": [],
+            "body": {
+                "type": "json",
+                "raw": "{\n  \"id\": 11,\n  \"nombre\": \"Impresora 3D\",\n  \"precio\": 350\n}",
+                "form": []
+            }
+        },
+        {
+            "_id": "670903cd-57c3-4932-b7a5-c2bcb807fd19",
+            "colId": "f539786f-e158-4d20-bf75-f39b0ab69dd7",
+            "containerId": "",
+            "name": "post Producto Existente",
+            "url": "http://localhost:3000/product",
+            "method": "POST",
+            "sortNum": 30000,
+            "created": "2024-06-26T11:37:16.517Z",
+            "modified": "2024-06-26T11:38:51.470Z",
+            "headers": [],
+            "body": {
+                "type": "json",
+                "raw": "{\n  \"id\": 2,\n  \"nombre\": \"Impresora 3D\",\n  \"precio\": 350\n}",
+                "form": []
+            }
+        },
+        {
+            "_id": "25776ce4-3d71-4b88-a4e3-8fdde4453cd1",
+            "colId": "f539786f-e158-4d20-bf75-f39b0ab69dd7",
+            "containerId": "",
+            "name": "patch Producto No Encontrado",
+            "url": "http://localhost:3000/product/34",
+            "method": "PATCH",
+            "sortNum": 30000,
+            "created": "2024-06-26T11:39:18.974Z",
+            "modified": "2024-06-26T11:39:45.373Z",
+            "headers": [],
+            "body": {
+                "type": "json",
+                "raw": "{\n  \"precio\": 650\n}",
+                "form": []
+            }
+        }
+    ],
+    "ref": "2LwUungvmBV_JfeSTpnzBdpQ-Qk58ZbI3VWGNOeyL2D_DhmmbisWaOc0oeAV0zu8ndSGOlljFeTbHxURoxVcfA"
+}

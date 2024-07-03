@@ -1,0 +1,156 @@
+{
+    "clientName": "Thunder Client",
+    "collectionName": "Api_01",
+    "collectionId": "54d1a028-192c-4c6e-acf4-72affe559de9",
+    "dateExported": "2024-06-26T10:19:07.454Z",
+    "version": "1.2",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "aece452f-62c5-4f66-99ad-754d47230c43",
+            "colId": "54d1a028-192c-4c6e-acf4-72affe559de9",
+            "containerId": "",
+            "name": "GET",
+            "url": "http://localhost:3000/account/b1ea2731-750f-4c6b-8406-f9c0560eff1e",
+            "method": "GET",
+            "sortNum": 10000,
+            "created": "2024-06-26T09:44:26.694Z",
+            "modified": "2024-06-26T09:52:12.170Z",
+            "headers": []
+        },
+        {
+            "_id": "348d8834-f1e1-4ef4-9759-3161701a6e4d",
+            "colId": "54d1a028-192c-4c6e-acf4-72affe559de9",
+            "containerId": "",
+            "name": "GET Cuenta no Existe",
+            "url": "http://localhost:3000/account/0000000-750f-4c6b-8406-f9c0560eff1e",
+            "method": "GET",
+            "sortNum": 20000,
+            "created": "2024-06-26T09:54:20.693Z",
+            "modified": "2024-06-26T09:54:37.316Z",
+            "headers": []
+        },
+        {
+            "_id": "4db48b2f-8f23-4728-8ca0-5c4c343be888",
+            "colId": "54d1a028-192c-4c6e-acf4-72affe559de9",
+            "containerId": "",
+            "name": "DELETE inexistente",
+            "url": "http://localhost:3000/account/b1ea2731-000004c6b-8406-f9c0560eff1e",
+            "method": "DELETE",
+            "sortNum": 20000,
+            "created": "2024-06-26T10:14:30.881Z",
+            "modified": "2024-06-26T10:15:10.578Z",
+            "headers": []
+        },
+        {
+            "_id": "8f5acee6-3e2d-4269-a340-c2b4c7b63ac0",
+            "colId": "54d1a028-192c-4c6e-acf4-72affe559de9",
+            "containerId": "",
+            "name": "DELETE ok",
+            "url": "http://localhost:3000/account/b1ea2731-750f-4c6b-8406-f9c0560eff1e",
+            "method": "DELETE",
+            "sortNum": 20000,
+            "created": "2024-06-26T10:16:20.264Z",
+            "modified": "2024-06-26T10:16:48.268Z",
+            "headers": []
+        },
+        {
+            "_id": "41b923fb-06ac-44a4-a12d-bb8d8b8185c3",
+            "colId": "54d1a028-192c-4c6e-acf4-72affe559de9",
+            "containerId": "",
+            "name": "patch Bad request",
+            "url": "http://localhost:3000/account/b1ea2731-750f-4c6b-8406-f9c0560eff1e",
+            "method": "PATCH",
+            "sortNum": 30000,
+            "created": "2024-06-26T09:57:50.922Z",
+            "modified": "2024-06-26T09:58:31.949Z",
+            "headers": []
+        },
+        {
+            "_id": "183ee8ea-4210-450e-a2dc-f576a4ac2596",
+            "colId": "54d1a028-192c-4c6e-acf4-72affe559de9",
+            "containerId": "",
+            "name": "patch ",
+            "url": "http://localhost:3000/account/b1ea2731-750f-4c6b-8406-f9c0560eff1e",
+            "method": "PATCH",
+            "sortNum": 40000,
+            "created": "2024-06-26T09:58:55.547Z",
+            "modified": "2024-06-26T10:00:24.601Z",
+            "headers": [],
+            "body": {
+                "type": "json",
+                "raw": "{\"name\": \"Charmaine Duck\"}",
+                "form": []
+            }
+        },
+        {
+            "_id": "616838cb-9246-497d-a21d-e2e66b66246b",
+            "colId": "54d1a028-192c-4c6e-acf4-72affe559de9",
+            "containerId": "",
+            "name": "patch  La cuenta no existe",
+            "url": "http://localhost:3000/account/00000c6b-8406-f9c0560eff1e",
+            "method": "PATCH",
+            "sortNum": 50000,
+            "created": "2024-06-26T10:02:02.177Z",
+            "modified": "2024-06-26T10:02:56.988Z",
+            "headers": [],
+            "body": {
+                "type": "json",
+                "raw": "{\"name\": \"Charmaine Duck\"}",
+                "form": []
+            }
+        },
+        {
+            "_id": "90e89e04-80e0-4ffd-8bda-9e8e6c8e2b97",
+            "colId": "54d1a028-192c-4c6e-acf4-72affe559de9",
+            "containerId": "",
+            "name": "patch  error body",
+            "url": "http://localhost:3000/account/",
+            "method": "POST",
+            "sortNum": 60000,
+            "created": "2024-06-26T10:05:49.481Z",
+            "modified": "2024-06-26T10:06:29.789Z",
+            "headers": [],
+            "body": {
+                "type": "json",
+                "raw": "{\"name\": \"Charmaine Duck\"}",
+                "form": []
+            }
+        },
+        {
+            "_id": "2b0e2e03-7d63-4e43-ab54-e3a8afef76fa",
+            "colId": "54d1a028-192c-4c6e-acf4-72affe559de9",
+            "containerId": "",
+            "name": "post cuenta existente",
+            "url": "http://localhost:3000/account/",
+            "method": "POST",
+            "sortNum": 70000,
+            "created": "2024-06-26T10:07:04.722Z",
+            "modified": "2024-06-26T10:09:03.115Z",
+            "headers": [],
+            "body": {
+                "type": "json",
+                "raw": "{\n  \"name\": \"Charmaine Duck\",\n  \"guid\": \"b1ea2731-750f-4c6b-8406-f9c0560eff1e\"\n}",
+                "form": []
+            }
+        },
+        {
+            "_id": "40a3c50d-827b-4c05-b0d9-9392ae7d340c",
+            "colId": "54d1a028-192c-4c6e-acf4-72affe559de9",
+            "containerId": "",
+            "name": "post creado",
+            "url": "http://localhost:3000/account/",
+            "method": "POST",
+            "sortNum": 80000,
+            "created": "2024-06-26T10:10:32.862Z",
+            "modified": "2024-06-26T10:11:04.429Z",
+            "headers": [],
+            "body": {
+                "type": "json",
+                "raw": "{\n  \"name\": \"Charmaine Duck\",\n  \"guid\": \"03475633-750f-4c6b-8406-f9c0560eff1e\"\n}",
+                "form": []
+            }
+        }
+    ],
+    "ref": "hm3miI8yQq3_rmppG0zERwk6cYDYJGZLd4ZCSmgY0fDttBSogI6uswZ3m-walpkrfYgwBvV1qA0yqCcqvNRf9w"
+}
